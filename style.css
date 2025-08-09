@@ -1,0 +1,33 @@
+h1{
+color: azure;
+text-align: center;
+
+
+}
+img{
+
+border-radius: 20px;
+}
+.l{
+text-align: center;
+color: #ffffff;
+
+
+}
+table{
+width: 1080px;
+text-align: center;
+}
+tr{
+
+background-color: rgb(115, 17, 169);
+
+
+}
+.m{
+
+border-radius: 20px;
+background-color: rgb(31, 1, 255);
+width: 390px;
+text-align: center;
+}
